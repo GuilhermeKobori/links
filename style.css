@@ -2,11 +2,11 @@
 * {
   padding: 0;
   margin: 0;
-  color: #fff;
+  color: #2b4d72;
   font-family: "Poppins", Sans-Serif;
 }
 body {
-  background: #9592e2 linear-gradient(45deg,#9592e2 0%,#b0f2d9 100%) fixed;
+  background: #ebe5d5 fixed;
 }
 .root {
   height: 100vh;
@@ -18,7 +18,7 @@ body {
 }
 .avatar {
   border-radius: 50%;
-  border: 2px solid #fff;
+  border: 2px solid #2b4d72;
 }
 .user {
   text-align: center;
@@ -35,7 +35,7 @@ body {
   text-align: center;
   font-size: 18px;
   margin: 20px;
-  border: 1px solid #fff;
+  border: 1px solid #2b4d72;
   border-radius: 30px;
   padding: 15px;
   font-weight: 600;
